@@ -161,7 +161,7 @@ See : src/main/resources/com/bibliomanager/db/library.sql
 ## Author
 
 **Steve Anderson H.**  
-[LinkedIn](www.linkedin.com/in/steve-anderson-hakizimana) 
+[LinkedIn](https://www.linkedin.com/in/steve-anderson-hakizimana) 
 
 ---
 
